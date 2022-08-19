@@ -1,0 +1,1 @@
+function welcome(){let t="欢迎光顾本蒟蒻的小窝~";if(""!==document.referrer){let e=document.referrer.split("/")[2];if(t="欢迎你，来自"+e.toUpperCase()+"的用户！",e.toUpperCase()==document.domain.toUpperCase())return}swal({title:" 欢迎！",text:t+"\n打开页面下方音乐以获得更佳体验！",imageUrl:"/img/avatar.jpg",timer:3e3,showConfirmButton:!1})}$(document).ready(()=>{welcome()});
