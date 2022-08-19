@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>小明的博客</title>
   
-  
+  <subtitle>测试测试测试测试</subtitle>
   <link href="http://xlight5.github.io/atom.xml" rel="self"/>
   
   <link href="http://xlight5.github.io/"/>
