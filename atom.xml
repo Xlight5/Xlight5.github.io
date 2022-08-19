@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>小明的博客</title>
   
-  <subtitle>不定期更新各种技术文章，欢迎交流讨论、批评指正！</subtitle>
+  
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
